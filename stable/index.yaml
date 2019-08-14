@@ -3,11 +3,11 @@ entries:
   demo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-08-14T22:38:02.370731602+09:00
+    created: 2019-08-14T22:53:45.258045416+09:00
     description: A Helm chart for Kubernetes
-    digest: f88bb30130fd64bc33ee48448813b3c2a0ab8f012bbc422c062d0140d5f1c683
+    digest: 85951332b53942f1df1a00975d92e9dcd73fa3b980842ece356166b61ffabb98
     name: demo
     urls:
-    - https://github.com/Hwang-Wonjoon/helm/demo-0.1.0.tgz
+    - https://github.com/Hwang-Wonjoon/helm/stable/demo-0.1.0.tgz
     version: 0.1.0
-generated: 2019-08-14T22:38:02.370087532+09:00
+generated: 2019-08-14T22:53:45.257485252+09:00
